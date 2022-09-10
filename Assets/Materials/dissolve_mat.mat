@@ -95,10 +95,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Edge_thickness: 0.1
+    - _Edge_thickness: 0.08
     - _QueueControl: 0
     - _QueueOffset: 0
     - _alpha_threshold: 0.001
+    - _noise_scale: 120
     m_Colors: []
   m_BuildTextureStacks: []
 --- !u!114 &8005302313163246861

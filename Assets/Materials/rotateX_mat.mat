@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: rotate_mat_z
+  m_Name: rotateX_mat
   m_Shader: {fileID: -6465566751694194690, guid: ba7c74dbe7ca8d34da51148aed54edac,
     type: 3}
   m_ValidKeywords: []
@@ -61,6 +61,7 @@ Material:
     - _Color_1: {r: 0.31790438, g: 0.8773585, b: 0, a: 0}
     - _Color_2: {r: 0.31790438, g: 0.8773585, b: 0, a: 0}
     - _color_2: {r: 1, g: 0.42677757, b: 0, a: 0}
+    - _direction: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &5339960924248566912
 MonoBehaviour:
